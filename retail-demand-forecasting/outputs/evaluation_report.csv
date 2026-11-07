@@ -1,0 +1,4 @@
+model,MAE,RMSE,R2,train_seconds
+Tuned Random Forest,9.666,13.071,0.7724,140.63
+Random Forest,9.862,13.307,0.7641,18.34
+Linear Regression,10.346,13.899,0.7427,0.01

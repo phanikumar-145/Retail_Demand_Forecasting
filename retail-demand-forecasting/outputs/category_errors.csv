@@ -1,0 +1,5 @@
+product_category,MAE,RMSE,test_records,MAPE_percent
+Beverages,11.751,15.449,1692,16.23
+Dairy,11.733,15.622,1692,16.52
+Snacks,8.369,10.812,1692,17.28
+Household,6.81,9.151,1692,17.05
